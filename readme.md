@@ -67,3 +67,14 @@ Using comparables such as:
 
 
 
+## BMI Calculator Challenge #2
+---
+
+1. Add Control flow to bmiCalculator.js
+2. BMI < 18.5 "Your BMI is <bmi>, so you are underweight."
+3. BMI 18.5-24.9  "Your BMI is <bmi>, so you are normal weight."
+4. BMI >24.9 "Your BMI is <bmi>, so you are underweight."
+5. Message must be returned, does not need alert, prompt, or console.log
+
+
+
