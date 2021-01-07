@@ -28,3 +28,42 @@ n = Math.floor(n)  + 1 // Perform Math.floor(n) rounds down to nears whole numbe
 
 See loveCalculator.js for solution
 
+
+# Control Flow
+---
+
+Adds the ability to control the flow of the code. if / else statements are examples of common control flow methods.
+
+Example Below: if (something happens ){
+    execute this
+} else if (something else happens){
+    execute this
+} else {
+    execute this
+}
+
+```
+
+if(lovePercentage > 70){
+    alert("Your Love Percentage is " + lovePercentage + "% Your love percentage is THROUGH THE ROOF!!!")
+} else if ( lovePercentage > 30 && lovePercentage < 71 ){
+    alert("Your Love Percentage is " + lovePercentage + "%!!!")
+} else {
+    alert("Your Love Percentage is " + lovePercentage + "% I'd stay far away")
+}
+
+```
+
+
+
+Using comparables such as:
+
+1. ===   //equal to
+2. !==  // s not equal to
+3. >  //greater than
+4. < //lesser than
+5. >=  //greater or equal to.
+6. == // Doesnt check if data types are equal
+
+
+
