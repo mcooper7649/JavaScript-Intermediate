@@ -166,3 +166,30 @@ Hint. You might need to think about Array.length
 
 See whosBuyingLunch.js for solution
 
+
+## While Loops
+---
+
+1. While a statement is true, the instructions are executed. Becareful of infinite lops.
+
+while (something is true){
+    // Do something
+}
+
+```
+var i = 1;
+ while (1 < 2){
+     console.log(i);
+     i++;   // In this while loop we count to 2 then it stops.
+ }
+```
+
+## While loop challenge
+---
+
+1.  Lyrics of the song 99 botles of bear on the wall.
+2. Count down from 99 to 0. 
+3. " bottles of beer on the wall, " + + " bottles of beer. Take one down and pass it around, " + + " bottles of beer on the wall."
+4. "No more bottles of beer on the wall, no more bottles of beer. Go to the store and buy some more, 99 bottles of beer on the wall."
+
+See bottlesOfBeer.js for solution
