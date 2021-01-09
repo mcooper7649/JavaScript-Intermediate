@@ -108,6 +108,7 @@ Using comparables such as:
 6. console.log(eggs.includes(egg4)) returns a boolean; so in this example, True.
 
 
+
 ## Guestlist Arrays Challenge
 ---
 1. Using our example arary below, prompt the guest for their name?
@@ -116,6 +117,34 @@ Using comparables such as:
     *  var guestList = ["Angela", "Mike","Jack","Lourdes","Pam","Jerry"];
 
 
+
 See guestList.js for solution
 
 
+
+### Array Methods
+---
+
+
+```
+- var myEgg = eggs[1];
+- var eggs = [egg1,egg2,egg3,egg4,egg5,]
+```
+
+1. eggs.push will add something to the end of the array.
+2. eggs.pop will remove something from the end of the arry.
+
+
+## Arrays Adding Numbers Challenge
+---
+
+1. Create an empty array called output.
+2. Create a function call fizzBuzz.
+3. Everytime this function is call it adds 1 more number.
+4. Console log the array within the function.
+
+* Adding a counter to the array helps with iteration
+* JS is read top down 
+* Else if are handy for a fizz buzz scenario.
+
+See fizzBuzz1.js for solution
