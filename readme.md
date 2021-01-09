@@ -89,3 +89,33 @@ Using comparables such as:
 
 -- See leapYear.js for solution
 
+
+## Arrays 
+---
+
+1. Arrays grant us the ability to store a collection of items and store it.
+```
+- var myEgg = eggs[1];
+- var eggs = [egg1,egg2,egg3,egg4,egg5,]
+```
+
+2. myEgg would return egg2
+
+
+3. console.log(myEggs) will return all the eggs in the array.
+4. console.log(eggs.length)  returns the amount of eggs, 5 in our example.
+5. console.log(eggs[3]) returns the egg in the 3 if you count from 0. egg4 is returned.
+6. console.log(eggs.includes(egg4)) returns a boolean; so in this example, True.
+
+
+## Guestlist Arrays Challenge
+---
+1. Using our example arary below, prompt the guest for their name?
+2. If they are on the guest list, welcome them with an alert
+3. If not, they can't come in
+    *  var guestList = ["Angela", "Mike","Jack","Lourdes","Pam","Jerry"];
+
+
+See guestList.js for solution
+
+
