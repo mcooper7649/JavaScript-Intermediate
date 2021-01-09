@@ -148,3 +148,21 @@ See guestList.js for solution
 * Else if are handy for a fizz buzz scenario.
 
 See fizzBuzz1.js for solution
+
+## Whos Buying Lunch? Code Challenge
+---
+
+1. Write a function which will select random name from a list of names. 
+2. The person selected will have to pay for everyones food. 
+
+
+Example input and output
+
+["Angela", "Ben", "Mike", "Jenny", "Chloe"]
+
+Michael is going to buy lunch today!
+
+Hint. You might need to think about Array.length
+
+See whosBuyingLunch.js for solution
+
