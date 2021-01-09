@@ -193,3 +193,33 @@ var i = 1;
 4. "No more bottles of beer on the wall, no more bottles of beer. Go to the store and buy some more, 99 bottles of beer on the wall."
 
 See bottlesOfBeer.js for solution
+
+## For Loops
+---
+1. Specify the number of times you want something to run
+2. In the example below the i = 0 is the start point.
+3. i < 2 is our end point.
+4. i++ is the counter.
+ 
+ 
+ for (var i = 0; i < 2; i++){
+     //do something
+ }
+ 
+
+ ## Fizz Buzz Challenge 2 
+ --
+
+ 1. Add a for loops instead of while loop to fizzBuzz
+ 2. see fizzBuzz2.js for solution
+
+
+ ## Fibonacci Challenge
+ ---
+
+ 1. Create a fucntion where you can call it by writing fibonacciGenerator(n)
+ 2. Where n is the number of items in the sequence;
+ 3. fibonacciGenerator(3) would return [0,1,1] as the output.
+ 4. see fibonacci.js for solution
+ 5. The first two numbers in the sequence must be 0, and 1.
+ * hint use Repl.it Playground to test your solution.
