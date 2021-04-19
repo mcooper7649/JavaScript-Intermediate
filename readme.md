@@ -207,14 +207,14 @@ See bottlesOfBeer.js for solution
  }
  
 
- ## Fizz Buzz Challenge 2 
+ ## Fizz Buzz Challenge 2  (For Loops)
  --
 
  1. Add a for loops instead of while loop to fizzBuzz
  2. see fizzBuzz2.js for solution
 
 
- ## Fibonacci Challenge
+ ## Fibonacci Challenge  (For Loops)
  ---
 
  1. Create a fucntion where you can call it by writing fibonacciGenerator(n)
@@ -223,3 +223,8 @@ See bottlesOfBeer.js for solution
  4. see fibonacci.js for solution
  5. The first two numbers in the sequence must be 0, and 1.
  * hint use Repl.it Playground to test your solution.
+ * output = fibonacciGenerator(5);
+ * console.log(output)
+
+
+
